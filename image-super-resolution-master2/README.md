@@ -132,14 +132,8 @@ source: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/ab
 Pre-trained model weights on [DIV2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K) are available under ```weights/sample_weights```. <br>
 The model was trained using ```--D=20 --G=64 --C=6``` as parameters (see architecture for details) for 86 epochs of 1000 batches of 8 augmented patches (32x32) taken from LR images.
 
-## Contribute
-We welcome all kinds of contributions, models trained on different datasets, new model architectures and/or hyperparameters combinations that improve the performance of the currently published model.
 
-Will publish the performances of new models in this repository.
 
-## Maintainers
-* Francesco Cardinale, github: [cfrancesco](https://github.com/cfrancesco)
-* Zubin John, github: [valiantone](https://github.com/valiantone)
 
 
 ## Copyright
