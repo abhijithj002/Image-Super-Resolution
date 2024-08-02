@@ -1,5 +1,5 @@
 imageio==2.4.1
-Keras==2.2.4
+Keras==2.13.1
 numpy==1.15.2
 pytest==3.8.0
 scikit-image==0.14.0
